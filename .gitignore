@@ -1,0 +1,20 @@
+# Original game files are copyrighted - never commit them
+dyna/
+*.IMG
+DYNA.EXE
+INTRO.EXE
+*.DAT
+DYNA.CFG
+DYNA.COD
+PIC
+PAL
+
+# Build output & local tooling
+build/
+port/build/
+port/dynablaster
+tools/ghidra_12.1.4_PUBLIC/
+tools/ghidra*.zip
+__pycache__/
+.DS_Store
+*.dmg
