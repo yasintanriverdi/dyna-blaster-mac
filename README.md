@@ -16,7 +16,7 @@ There is no emulator and no DOSBox. The game logic was reverse-engineered from t
 
 ## ⬇️ Download
 
-**[Download DynaBlaster.dmg](https://github.com/yasintanriverdi/dyna-blaster-mac/releases/latest/download/DynaBlaster.dmg)**. All versions are on the [Releases page](https://github.com/yasintanriverdi/dyna-blaster-mac/releases).
+**[Download DynaBlaster.dmg](https://github.com/yasintanriverdi/dyna-blaster-mac/raw/main/releases/DynaBlaster.dmg)** (about 1 MB). The file is also in [`releases/`](releases/).
 
 - Requires an **Apple Silicon Mac** (M1 or newer) and macOS 11 or later.
 - Requires **your own copy of the original DOS game**: the folder with `DYNA.EXE`, `GFX/`, `DIGI.DAT`, `MUSIC.DAT`, `DEMO.DAT` and `DYNA.CFG`. The game files are copyrighted and are **not** included.

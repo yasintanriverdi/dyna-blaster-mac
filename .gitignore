@@ -18,3 +18,4 @@ tools/ghidra*.zip
 __pycache__/
 .DS_Store
 *.dmg
+!releases/DynaBlaster.dmg
